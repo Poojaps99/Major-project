@@ -1,0 +1,3 @@
+# Major-project: EXTRACTION OF TEXT FROM IMAGES....
+extract text from image using pytesseract and opencv..
+language:python
